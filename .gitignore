@@ -6,8 +6,8 @@ ehthumbs.db
 Desktop.ini
 
 # bin folder
-DXMVC.Demo/bin/
-DXMVC.Demo/obj/
+DXMVC.Demo/bin/*
+DXMVC.Demo/obj/*
 *.dll
 *.pdb
 

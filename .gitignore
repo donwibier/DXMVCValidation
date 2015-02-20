@@ -5,6 +5,16 @@ ehthumbs.db
 # Folder config file
 Desktop.ini
 
+# bin folder
+DXMVC.Demo/bin/
+DXMVC.Demo/obj/
+*.dll
+*.pdb
+
+#packages subfolders
+!packages/repositories.config
+packages/
+
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
 

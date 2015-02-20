@@ -36,3 +36,8 @@ D:\Projects\GitHub\DXMVCValidation\DXMVC.Demo\bin\WebMatrix.Data.xml
 D:\Projects\GitHub\DXMVCValidation\DXMVC.Demo\bin\WebMatrix.WebData.xml
 D:\Projects\GitHub\DXMVCValidation\DXMVC.Demo\obj\Debug\DXMVC.Demo.dll
 D:\Projects\GitHub\DXMVCValidation\DXMVC.Demo\obj\Debug\DXMVC.Demo.pdb
+D:\Projects\GitHub\DXMVCValidation\DXMVC.Demo\bin\Org.Mentalis.Security.Cryptography.dll
+D:\Projects\GitHub\DXMVCValidation\DXMVC.Demo\bin\Mono.Math.dll
+D:\Projects\GitHub\DXMVCValidation\DXMVC.Demo\bin\Org.Mentalis.Security.Cryptography.xml
+D:\Projects\GitHub\DXMVCValidation\DXMVC.Demo\bin\Mono.Math.xml
+D:\Projects\GitHub\DXMVCValidation\DXMVC.Demo\obj\Debug\DXMVC.Demo.csprojResolveAssemblyReference.cache
